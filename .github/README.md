@@ -4,4 +4,23 @@ Passionate about DevOps, infrastructure, servers, and cybersecurity, I believe i
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZackaryW&theme=algolia)
 
-![Skills](https://github.com/ZackaryW/ZackaryW/blob/main/.github/image.png){width=500px height=300px}
+```json 
+//technical skills
+languages: ["Python","JS/TS", "C/C++", "Rust"],
+frontend: ["React", "NextJS", "Tailwind CSS"],
+backend: ["Django", "Flask", "FastAPI", "NodeJS", "Tauri"],
+devops: ["Docker", "Kubernetes", "GitOps"],
+databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
+os : ["Linux (Manjaro, Ubuntu, Red Hat)", "Windows", "Android"],
+scripting: ["Bash", "Powershell"],
+microsoft: ["Power Automate", "Power BI", "Business Central", "Azure", "Sharepoint"],
+certifications: [
+    "AWS Cloud Essentials (30%)",
+    "CompTIA Security+ (15%)",
+    "CompTIA Network+ (95%)",
+    "CompTIA Linux+ (0%)",
+    "Azure Developer Associate (0%)",
+    "Azure DevOps Engineer Associate (0%)"
+]
+
+```
