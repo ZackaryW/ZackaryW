@@ -6,7 +6,7 @@ Passionate about DevOps, infrastructure, servers, and cybersecurity, I believe i
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZackaryW&theme=algolia)
 
 ### Technical Skills
-```json
+```js
 {
     languages: ["Python","JS/TS", "C/C++", "Rust"],
     frontend: ["React", "NextJS", "Tailwind CSS"],
