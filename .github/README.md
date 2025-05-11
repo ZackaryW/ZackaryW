@@ -1,5 +1,6 @@
 Passionate about DevOps, infrastructure, servers, and cybersecurity, I believe in building through collaboration and trust in open source. 
 
+[HomePage](https://zackaryw.vercel.app) | [Dev Blog](https://zackaryw.notion.site/dev-blog) | [Dev Logs](https://dynalist.io/d/EQdVk1CR3P6K7S8kUC_lTCRc)
 ------
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZackaryW&theme=algolia)
