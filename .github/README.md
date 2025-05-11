@@ -2,7 +2,6 @@ Passionate about DevOps, infrastructure, servers, and cybersecurity, I believe i
 
 ------
 
-![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZackaryW&theme=algolia&nocache=true)
-![Most committed language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZackaryW&theme=algolia&nocache=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZackaryW&theme=algolia&hide_border=true&nocache=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackaryW&layout=compact&theme=algolia&hide_border=true&langs_count=10&nocache=true)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZackaryW&theme=algolia&nocache=true)
